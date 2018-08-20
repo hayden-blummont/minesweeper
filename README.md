@@ -15,3 +15,6 @@ To help out, we've included two JavaScript files which do most of the heavy lift
 
 As you develop your program, you should see little hints appear near the top of the browser window. These are designed to guide you through creating your `board` object. The `board` object is used by the provided code to make the rest of the game work.
 
+------------
+
+This was part of one of the course practice before boot camp started. It's not a finished product as I was encouraged to move on but I feel confident that I could easily add the finishing touches given a good few hours.
